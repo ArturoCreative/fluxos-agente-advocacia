@@ -1,13 +1,13 @@
 # Fluxos do Agente – Escritório de Advocacia
 
 ## 📁 Imagens (PNG/SVG)
-> Os arquivos ficam na pasta `ativos/`. Ajuste os nomes se estiverem diferentes no seu repositório.
+> Os arquivos ficam na pasta `assets/`. Ajuste os nomes se estiverem diferentes no seu repositório.
 
 ### Triagem (imagem)
-![Fluxo de Triagem](ativos/novo-nome.png)
+![Fluxo de Triagem](assets/novo-nome.png)
 
 ### Follow-up (imagem)
-![Acompanhamento pós-consulta](ativos/acompanhamento-pos-consulta-e-relacionamento.png)
+![Acompanhamento pós-consulta](assets/acompanhamento-pos-consulta-e-relacionamento.png)
 
 ---
 
